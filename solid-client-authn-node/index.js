@@ -1,5 +1,7 @@
 import { registerRootComponent } from 'expo';
-
+import './shim.js';
+import crypto from 'crypto';
+import 'react-native-get-random-values';
 import App from './App';
 
 // registerRootComponent calls AppRegistry.registerComponent('main', () => App);
