@@ -58,6 +58,7 @@ const App = () => {
         <Text>Access token: {authr.accessToken}</Text>
         <Text>Id token: {authr.idToken}</Text>
         <Text>Access token type: {authr.tokenType}</Text>
+        <Text>Refresher token: {authr.refreshToken}</Text>
         <Button title="Log In" onPress={_login}/>
         <Button title="Change" onPress={() => setLogginIn("Whatever")}/>
       </ScrollView>
