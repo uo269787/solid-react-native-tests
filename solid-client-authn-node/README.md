@@ -1,0 +1,1 @@
+Unfortunatly this project also needs crypto but this uses another approach to login which might work better, using Linking and WebBrowser from expo

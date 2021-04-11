@@ -1,0 +1,13 @@
+{
+  "name": "solid-client-authn-node",
+  "displayName": "solid-client-authn-node",
+  "expo": {
+    "name": "solid-client-authn-node",
+    "slug": "solid-client-authn-node",
+    "scheme": "radarin",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
